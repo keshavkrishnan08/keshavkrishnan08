@@ -1,10 +1,12 @@
 # Keshav Krishnan
 
-**I build AI products.** Founder and engineer shipping real systems across health, energy, and physical intelligence. Senior at Park Tudor School in Indianapolis.
+**I build AI products.** Founder and engineer shipping real systems across energy and physical intelligence. Senior at Park Tudor School in Indianapolis.
 
-`IEEE IECON 2026 first author` &nbsp; `provisional patent holder` &nbsp; `shipped App Store startup` &nbsp; `VEX robotics world placements`
 
-I started coding at nine and have been building AI systems since 2023. Today I ship products people pay for, research accepted at IEEE, and tools that turn public data into decisions. Full story at **[keshavkrishnan.vercel.app](https://keshavkrishnan.vercel.app)**.
+I started coding at nine and have been building websites and algorithms since 2021. After my big, aha moment with ChatGPT in 2023 I have been devoted to work on log-linear scale innovation. 
+
+Please feel free to learn more about me:
+**[keshavkrishnan.vercel.app](https://keshavkrishnan.vercel.app)**.
 
 ---
 
