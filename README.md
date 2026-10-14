@@ -16,7 +16,7 @@ I started coding at nine and have been building AI systems since 2023. Today I s
 ### Research
 
 - **Safe fast charging robust to battery aging**, a solver-free safety filter for lithium-ion fast charging. Zero failures across 156 aged-cell tests, where the standard approach failed every time. First author, accepted at **IEEE IECON 2026**. [[code]](https://github.com/keshavkrishnan08/safe-charge)
-- **AI and crypto grid power**, modeling the grid-carbon impact of AI and crypto load across eight demand models. George Mason ASSIP, under Dr. Jiasun Li. [[code]](https://github.com/keshavkrishnan08/bitcoin-mining-emissions)
+- **AI and crypto grid power**, modeling the grid-carbon impact of AI and crypto load across eight demand models. George Mason ASSIP, under Dr. Jiasun Li. [[earlier screening analysis]](https://github.com/keshavkrishnan08/bitcoin-mining-emissions)
 - **Forecasting crop waste**, a graph neural network across 2,130 US counties, filed as a **provisional patent**. [[code]](https://github.com/keshavkrishnan08/CasCrop)
 
 ### Projects
