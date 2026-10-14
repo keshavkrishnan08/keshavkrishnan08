@@ -2,6 +2,8 @@
 
 **I build AI products.** Founder and engineer shipping real systems across health, energy, and physical intelligence. Senior at Park Tudor School in Indianapolis.
 
+`IEEE IECON 2026 first author` &nbsp; `provisional patent holder` &nbsp; `shipped App Store startup` &nbsp; `VEX robotics world placements`
+
 I started coding at nine and have been building AI systems since 2023. Today I ship products people pay for, research accepted at IEEE, and tools that turn public data into decisions. Full story at **[keshavkrishnan.vercel.app](https://keshavkrishnan.vercel.app)**.
 
 ---
@@ -22,6 +24,10 @@ I started coding at nine and have been building AI systems since 2023. Today I s
 - **[GridWatch](https://gridwatch-indiana.vercel.app)**, an interactive atlas mapping every data center in Indiana against the power grid, every figure cited to a public filing.
 - **[FIREWATCH](https://keshavkrishnan08.github.io/firewatch/)**, real-time wildfire spread tracking that fuses camera, satellite, weather, and terrain into a calibrated forecast.
 - **[CROSSING](https://crossing-pi.vercel.app)**, computer vision that scores every pedestrian and vehicle on street video by their probability of being hit, at 0.95 AUROC.
+
+### Beyond code
+
+Captained Park Tudor VEX Robotics (Team 6842V) to eight international placements and the most wins in the world across the 2024 and 2025 seasons. Cofounded and lead a 140-member mock trial program.
 
 ---
 
