@@ -12,7 +12,7 @@ Please feel free to learn more about me:
 
 ### Startups
 
-- **[Kilra](https://apps.apple.com/us/app/kilra-symptom-tracker/id6760767331)**, a digital health OS live on the App Store. Custom ML learns how your body reacts and surfaces the real triggers behind how you feel. Currently in growth stage(finding PMF :))Founder and CEO.
+- **[Kilra](https://apps.apple.com/us/app/kilra-symptom-tracker/id6760767331)**, a digital health OS live on the App Store. Custom ML learns how your body reacts and surfaces the real triggers behind how you feel. Currently in growth stage (finding PMF :)). Founder and CEO.
 - **[CropConnect](https://cropconnect.dev)**, done-for-you local produce sourcing for restaurants. Founder.
 
 ### Research
