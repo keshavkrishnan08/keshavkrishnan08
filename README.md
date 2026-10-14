@@ -18,7 +18,7 @@ Please feel free to learn more about me:
 ### Research
 
 - **Safe fast charging robust to battery aging**, a solver-free safety filter for lithium-ion fast charging. Zero failures across 156 aged-cell tests, where the standard approach failed every time. First author, accepted at **IEEE IECON 2026**. [[code]](https://github.com/keshavkrishnan08/safe-charge)
-- **AI and crypto grid power**, modeling the grid-carbon impact of AI and crypto load across eight demand models. George Mason ASSIP, under Dr. Jiasun Li. [[earlier screening analysis]](https://github.com/keshavkrishnan08/bitcoin-mining-emissions)
+- **The carbon effect of flexible computing loads**, a game-theoretic model showing that AI and crypto load raises grid carbon unless it runs on surplus renewables, a result that holds across eight demand models. First author, published in the **Journal of Student-Scientists' Research** (George Mason University, 2026), from ASSIP under Dr. Jiasun Li. [[paper]](https://doi.org/10.13021/jssr2026.5665) [[earlier screening analysis]](https://github.com/keshavkrishnan08/bitcoin-mining-emissions)
 - **Forecasting crop waste**, a graph neural network across 2,130 US counties, filed as a **provisional patent**. [[code]](https://github.com/keshavkrishnan08/CasCrop)
 
 ### Projects
