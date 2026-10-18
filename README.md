@@ -23,6 +23,7 @@ Please feel free to learn more about me:
 
 ### Projects
 
+- **[ECHO](https://github.com/keshavkrishnan08/ECHOSPACE)**, finding people with Wi-Fi and no cameras: radio signals between ordinary Wi-Fi devices become a live 3D picture of where people are, with Bayesian tomography, multi-person tracking, and a Python port that matches the TypeScript engine bit for bit.
 - **[GridWatch](https://gridwatch-indiana.vercel.app)**, an interactive atlas mapping every data center in Indiana against the power grid, every figure cited to a public filing.
 - **[FIREWATCH](https://keshavkrishnan08.github.io/firewatch/)**, real-time wildfire spread tracking that fuses camera, satellite, weather, and terrain into a calibrated forecast.
 - **[CROSSING](https://crossing-pi.vercel.app)**, computer vision that scores every pedestrian and vehicle on street video by their probability of being hit, at 0.95 AUROC.
